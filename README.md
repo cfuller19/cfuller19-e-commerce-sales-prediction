@@ -1,6 +1,6 @@
 # E-Commerce Sales Prediction Using Random Forest Regression
 
-<b>This is the code file of my capstone project for completing my graduate degree at Western Governors University. I was awarded the WGU Capstone Excellence Award for my work on this project.The executive summary for this project is given below</b>
+<b>This is the code file of my capstone project for completing my graduate degree at Western Governors University. I was awarded the WGU Capstone Excellence Award for my work on this project.The executive summary for this project is given below.</b>
 
 <b>Statement of the Problem</b><br>
 	The United States pet industry is quickly growing, with sales projected to increase to $200 billion by 2030 (“Global Pet Industry”, 2023),  and with a large portion of those sales conducted online (Polyn, 2023). Understanding features of an e-commerce marketplace that factor into customer buying decisions can help retailers maximize online sales and remain competitive. Prior research has identified product star rating, the number of reviews, and price as important features that customers consider before purchasing (Sung et al., 2023). Using these features, this analysis aims to build a random forest regression (RFR) model that can predict pet product sales on an e-commerce platform with an accuracy of at least 70%.<br>
