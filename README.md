@@ -32,3 +32,11 @@ The executive summary of this analysis can be found <a href="https://docs.google
 <ul>
 	<li><b>Python Code:</b> The Python code used in this project can be examined in the <a href="https://github.com/cfuller19/cfuller19-e-commerce-sales-prediction/blob/main/Amazon_2Pet.ipynb">code section of this repository.</a></li>
 </ul>
+<br>
+<h2> Additional Notes</h2>
+<br>
+Since this was my graduate capstone project for WGU, I had to follow specific guidelines regarding the project's scope and format. I'd like to revisit this project in the future to see if a more accurate predictive model could be built. In this follow-up project, I'd like to:
+<ol>
+	<li>Use more data</li>
+	<li>Try other regression models, such as XGBoost</li>
+</ol>
