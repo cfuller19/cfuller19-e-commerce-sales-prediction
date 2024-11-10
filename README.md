@@ -6,7 +6,7 @@ E-commerce sales of products are influenced by the product's star rating, number
 <br>
 <h2> Tools Used For Analysis</h2>
 <br>
-<b>Data:</b> The data used for this analysis consited of 1,735,414 entries of products sold on an e-commerce platform. The dataset is ODC Attribution Licensed and made available on <a href="https://www.kaggle.com/datasets/asaniczka/usa-optimal-product-price-prediction">Kaggle.com</a> by the user Asaniczka. The data were filtered to contain pet-related product observations of star rating, number of reviews, price, best-seller status, and the number of products purchased in the prior month. This provided 5,432 observations for the regression model.
+<b>Data:</b> The data used for this analysis consisted of 1,735,414 entries of products sold on an e-commerce platform. The dataset is ODC Attribution Licensed and made available on <a href="https://www.kaggle.com/datasets/asaniczka/usa-optimal-product-price-prediction">Kaggle.com</a> by the user Asaniczka. The data were filtered to contain pet-related product observations of star rating, number of reviews, price, best-seller status, and the number of products purchased in the prior month. This provided 5,432 observations for the regression model.
 <br>
 <br>
 All parts of this analysis were conducted using Python in a Jupyter notebook. The Python libraries and modules used for this analysis included:
